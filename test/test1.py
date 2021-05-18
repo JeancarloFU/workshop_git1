@@ -13,5 +13,10 @@ b=np.min(a)+np.mean(a)
 print("hi")
 #define new functions
 
+
+
+def print():
+  print("init")
+
 #end script
 
