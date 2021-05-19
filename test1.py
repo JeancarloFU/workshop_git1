@@ -11,6 +11,8 @@ np.linspace(10)**2
 
 b=np.min(a)+np.mean(a)
 print("hi")
+a+b
+
 #define new functions
 
 #end script
