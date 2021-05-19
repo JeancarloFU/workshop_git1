@@ -14,5 +14,8 @@ b=np.min(a)+np.mean(a)
 print("hi")
 #define new functions
 
+a+b
+print("end")
+
 #end script
 
