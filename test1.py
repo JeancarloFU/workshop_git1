@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as n
 import pandas as pd
 import xarray as xr
 
