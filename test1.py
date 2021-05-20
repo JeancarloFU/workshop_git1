@@ -15,5 +15,8 @@ a+b
 
 #define new functions
 
+def printi():
+  print("ini")
+
 #end script
 
