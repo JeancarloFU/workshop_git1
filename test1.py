@@ -17,5 +17,8 @@ print("hi")
 a+b
 print("end")
 
+def printi():
+  print("ini")
+
 #end script
 
